@@ -1,0 +1,2 @@
+# Covid-Prediction-model
+Class project to build a model to predict covid cases across the provinces, and for Canada as a whole, three days into the future (after the submission date).  I only had a week to work on this, so it is not very neat, and probably could be optimized further. But I got the most accurate predictions of anyone in my machine learning course! As this was handed in to be evaluated, there is extensive annotation of what I did and why.
